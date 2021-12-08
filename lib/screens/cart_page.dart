@@ -7,7 +7,7 @@ class CartPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.yellow,
       body: Center(
-        child: Text('Home Page')
+        child: Text('Cart Page')
       )
     );
 

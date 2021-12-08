@@ -7,7 +7,7 @@ class ProfilePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.purpleAccent,
       body: Center(
-        child: Text('Home Page')
+        child: Text('Profile Page')
       )
     );
 

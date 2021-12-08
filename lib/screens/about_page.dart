@@ -7,7 +7,7 @@ class AboutPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.red,
       body: Center(
-        child: Text('Home Page')
+        child: Text('About Page')
       )
     );
 
